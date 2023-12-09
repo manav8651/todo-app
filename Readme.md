@@ -11,13 +11,13 @@ Below are screenshots showcasing the different pages and functionalities of the 
     ![All Todos](screenshots/index.png)
 
 2. User Signup page:
-   ![User Signup page](screenshots/books_collection.png)
+   ![User Signup page](screenshots/signup.png)
 
 3. User Login page:
-   ![User Login page](screenshots/book.png)
+   ![User Login page](screenshots/login.png)
 
 4. Update Todo:
-   ![Update todo](screenshots/issue.png)
+   ![Update todo](screenshots/update.png)
 
 ## Installation
 
