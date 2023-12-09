@@ -5,7 +5,7 @@ This is a simple todo-app built on top of React.js, Material UI. Node.js, Expres
 
 ## Screenshots
 
-Below are screenshots showcasing the different pages and functionalities of the Library Management System:
+Below are screenshots showcasing the different pages and functionalities of the Todo App:
 
 1. All Todos:
     ![All Todos](screenshots/index.png)
