@@ -10,7 +10,7 @@ To set up the Todo App locally, follow these steps:
 ```
 
 1. Clone the repository:
-    git clone https://github.com/HS831/frappe-lms.git
+    git clone https://github.com/manav8651/todo-app.git
     cd todo-app
 
 2. Install dependencies for both the frontend and backend:
@@ -24,7 +24,7 @@ To set up the Todo App locally, follow these steps:
     cd todo-back
     npm start
 
-5. Start the fronten application on localhost:300
+5. Start the fronten application on localhost:3000
     cd todo-front
     npm start
 
