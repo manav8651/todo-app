@@ -3,6 +3,15 @@
 This is a simple todo-app built on top of React.js, Material UI. Node.js, Express.js and MongoDB is used in the backend.
 
 
+## Screenshots 
+Below are the screenshots which displays the functionality and UI of Todo App.
+
+# Homepage
+![index](https://github.com/manav8651/todo-app/assets/60431245/d5a70492-2e95-4ed6-8533-4caecad9d4bf)
+
+
+
+
 ## Installation
 
 To set up the Todo App locally, follow these steps:
